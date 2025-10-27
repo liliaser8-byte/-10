@@ -41,7 +41,7 @@ double averageMultipleOf5(int arr[], int n) {
     if (count == 0) return 0; // якщо немає чисел, кратних 5
     return (double)sum / count;
 }
-
+'''
 // Основна функція
 int main() {
     SetConsoleCP(1251);
