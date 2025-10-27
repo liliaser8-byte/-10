@@ -78,7 +78,6 @@ int main() {
 <img width="1475" height="714" alt="image" src="https://github.com/user-attachments/assets/3fd808b6-5dcb-4972-b9e9-5cdb5b1925a0" />
 📝 Висновок  
 
-## ✅ **Файл `checklist.md`**
 
 ```markdown
 # ✅ Чек-лист знань
