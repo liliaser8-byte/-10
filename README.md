@@ -6,6 +6,7 @@
 Усі дії виконуються за допомогою окремих функцій для введення, сортування й обчислення.
 <img width="822" height="486" alt="image" src="https://github.com/user-attachments/assets/d7747058-700b-4f05-99d5-c836eeabd61c" />
 <img width="435" height="571" alt="image" src="https://github.com/user-attachments/assets/2cdeb473-7340-4a77-9a0c-39356b19c492" />
+<img width="581" height="828" alt="image" src="https://github.com/user-attachments/assets/a2dae414-ccf2-4ce2-9dce-ea6e261a1f1c" />
 
 
 ```
